@@ -88,5 +88,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [SQLAlchemy](https://www.sqlalchemy.org/) - For database management.
 
 ---
-
-Feel free to modify the README to better fit your project specifics, and replace placeholders like `"yourusername"` with your actual GitHub username.
